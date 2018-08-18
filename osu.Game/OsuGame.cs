@@ -1,7 +1,7 @@
 ﻿// Copyright (c) 2007-2018 ppy Pty Ltd <contact@ppy.sh>.
 // Licensed under the MIT Licence - https://raw.githubusercontent.com/ppy/osu/master/LICENCE
 
-//Just a testing for AppVeyor
+//Just a testing for AppVeyor???
 using System;
 using System.Collections.Generic;
 using osu.Framework.Configuration;
