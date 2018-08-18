@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
   <Import Project="..\osu.Game.props" />
   <PropertyGroup Label="Project">
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -6,6 +6,9 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <WarningLevel>0</WarningLevel>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\Users\Windows 10\osu\Backup\osu.Game\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
   <ItemGroup Label="Service">
     <Service Include="{82a7f48d-3b50-4b1e-b82e-3ada8210c358}" />
